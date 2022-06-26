@@ -12,4 +12,3 @@ function running_late(date){
 
 //console.log(running_late("December 17, 1995 22:24:00"));
 exports.running_late = running_late;
-module.exports = running_late;
